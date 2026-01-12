@@ -41,6 +41,14 @@ I am a Senior Software Engineer with over **8 years of experience** building rob
 
 ---
 
+### 🐍 Commits
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otavioadcp/otavioadcp/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/otavioadcp/otavioadcp/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/otavioadcp/otavioadcp/raw/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ### 🇧🇷 Sobre Mim (Português)
 
 Tenho mais de **8 anos de experiência**, atuo como Engenheiro de Software Sênior focado na construção de soluções resilientes. Minha carreira evoluiu do Front-end para um papel Full-stack completo, permitindo-me atuar desde a concepção da interface até a infraestrutura de backend.
@@ -62,5 +70,5 @@ Atualmente na **CI&T**, minhas principais responsabilidades incluem:
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@GMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/otavio-pimentel-4295ba125/?locale=en_US))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioadcp@gmail.com)
