@@ -1,6 +1,6 @@
 # Hello, I'm Otavio Pimentel! 👋
 
-## 🚀 Senior Software Developer | Full-Stack Enthusiast
+## 🚀 Senior Software Developer | Full-Stack
 
 I am a Senior Software Engineer with over **8 years of experience** building robust and scalable solutions. Currently working at **CI&T**, I bridge the gap between interface design and system architecture, with a strong focus on **microservices**, **code quality**, and **team mentorship**.
 
