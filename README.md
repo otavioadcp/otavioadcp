@@ -70,6 +70,6 @@ Atualmente na **CI&T**, minhas principais responsabilidades incluem:
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/otavio-pimentel-4295ba125/?locale=en_US))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/otavio-pimentel-4295ba125/?locale=en_US](Linkedin))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioadcp@gmail.com)
 
